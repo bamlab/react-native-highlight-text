@@ -1,0 +1,16 @@
+{
+  "name": "@bam.tech/react-native-text-highlight",
+  "version": "1.0.0",
+  "description": "A react native module that hightlights given words in a text",
+  "main": "index.js",
+  "repository": "https://github.com/bamlab/react-native-highlight-text.git",
+  "author": "Selim Ben Ammar <selimba@bam.tech>",
+  "license": "MIT",
+  "dependencies": {
+    "highlight-words-core":"1.1.0"    
+  },
+  "peerDependencies": {
+    "react-native": "*",
+    "react": "*"
+  }
+}
